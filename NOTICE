@@ -1,0 +1,12 @@
+Universal Design — independent adaptation, version 2.0.0
+
+Historical inspiration: Google Gemini's gemini-frontend-design, distributed in
+https://github.com/google-gemini/demolab under Apache License 2.0.
+Upstream source: https://github.com/google-gemini/demolab/blob/main/skills/gemini-frontend-design/SKILL.md
+Upstream author metadata: Google Gemini.
+
+This package contains independently authored product-interface design guidance,
+including prior mobile-focused guidance and new web, desktop and agent-portability
+rules. It is not an official Google product and does not depend on Gemini or any
+other specific model, vendor service or tool. Original attribution is retained
+for provenance, not as a runtime dependency or endorsement.
